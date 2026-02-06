@@ -1,5 +1,5 @@
 import './App.css'
-import ColorPicker from './components/ColorPicker'
+import ColorPicker from './components/color-picker'
 
 function App() {
 

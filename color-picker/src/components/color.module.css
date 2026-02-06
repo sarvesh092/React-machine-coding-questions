@@ -1,0 +1,33 @@
+.mainContainer {
+  display: flex;
+  margin: 2rem;
+  gap: 1rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 1rem;
+}
+
+.inputContainer {
+  border: 2px solid greenyellow;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.inputbox {
+  height: 3rem;
+  width: 10rem;
+}
+
+.contentContainer {
+  border: 2px solid greenyellow;
+  cursor: pointer;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+  min-height: 20vh;
+}
